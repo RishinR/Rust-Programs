@@ -1,0 +1,7 @@
+./session_1/helloworld.exe
+./session_1/shadowing.exe
+./session_1/datatypes.exe
+./session_1/controlflow.exe
+./session_2/ownership.exe
+./session_2/reference.exe
+./session_2/slices.exe
