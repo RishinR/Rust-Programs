@@ -9,5 +9,5 @@ fn main() {
     slice[2] = 30;
     slice[3] = 100;
 
-    println!("{:?}", data); // Output: [1, 10, 20, 30, 5]
+    println!("{:?}", data); // Output: [10, 20, 30, 100]
 }
